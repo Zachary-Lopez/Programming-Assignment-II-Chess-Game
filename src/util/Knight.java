@@ -11,6 +11,8 @@ public class Knight extends Piece{
         if(!super.isLegal(move, game))
             return false;
         //rules for knight only!
+        if(Math.abs(move.getRow0()-move.getRow1()) * Math.abs(move.getCol0()) - move.getCol1() == 2)
+            game.move(move);
         return true;
     }
     @Override
