@@ -1,0 +1,15 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏÁ£ˆüÿÿÿÿ8ûˆ´é­1
+B
+java:S1659"%Declare "player2" on a separate line.(í¸Ë8ƒ‰´é­1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(€Ëº—8ˆ‰´é­1
+C
+java:S16594"!Declare "dst" on a separate line.(ôáŞùûÿÿÿÿ8•‰´é­1
+t
+java:S3776A"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¦¦ÖÅıÿÿÿÿ8š‰´é­1
+a
+java:S3358I"DExtract this nested ternary operation into an independent statement.(”´ç¹8‰´é­1
+a
+java:S3358I"DExtract this nested ternary operation into an independent statement.(”´ç¹8‰´é­1
